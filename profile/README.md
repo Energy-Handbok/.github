@@ -16,28 +16,28 @@ Docs:
 
 **Monitor the status of individual service processes :**
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
 🥑 [User Service](https://github.com/Energy-Handbok/user-service)
 
 > [!NOTE]
 >[![Java CI with Maven](https://github.com/Energy-Handbok/user-service/actions/workflows/maven.yml/badge.svg)](https://github.com/Energy-Handbok/user-service/actions/workflows/maven.yml)
->[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_user-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_user-service)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_user-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_user-service)
 
 🍆 [Payment Service](https://github.com/Energy-Handbok/payment-service)
 
-[![Java CI with Maven](https://github.com/Energy-Handbok/payment-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/payment-service/actions/workflows/maven.yml)
+> [!NOTE]
+>[![Java CI with Maven](https://github.com/Energy-Handbok/payment-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/payment-service/actions/workflows/maven.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_payment-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_payment-service)
 
 🍉 [Common Service](https://github.com/Energy-Handbok/common-service)
 
-[![Java CI with Maven](https://github.com/Energy-Handbok/common-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/common-service/actions/workflows/maven.yml)
+> [!NOTE]
+>[![Java CI with Maven](https://github.com/Energy-Handbok/common-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/common-service/actions/workflows/maven.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_common-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_common-service)
 
 🍈 [Discovery Service](https://github.com/Energy-Handbok/discovery-service)
 
-[![Java CI with Maven](https://github.com/Energy-Handbok/discovery-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/discovery-service/actions/workflows/maven.yml)
+> [!NOTE]
+>[![Java CI with Maven](https://github.com/Energy-Handbok/discovery-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/discovery-service/actions/workflows/maven.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_discovery-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_discovery-service)
 
 #### © 2024 BlueEyesssss
