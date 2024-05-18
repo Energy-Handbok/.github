@@ -58,7 +58,7 @@ Docs:
 
 ``
 
-🍏 [News Service](https://github.com/Energy-Handbok/news-service)
+🥕 [News Service](https://github.com/Energy-Handbok/news-service)
 
 > [!NOTE]
 > [![Java CI with Maven](https://github.com/Energy-Handbok/news-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/news-service/actions/workflows/maven.yml)
