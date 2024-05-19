@@ -65,6 +65,14 @@ Docs:
 > [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_news-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_news-service)
 
 ``
+
+🌽 [Config Service](https://github.com/Energy-Handbok/config-service)
+
+> [!NOTE]
+> [![Java CI with Maven](https://github.com/Energy-Handbok/config-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/config-service/actions/workflows/maven.yml)
+> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_config-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_config-service)
+
+``
 #### © 2024 BlueEyesssss
 
 <!--
