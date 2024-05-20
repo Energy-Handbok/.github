@@ -73,11 +73,19 @@ Docs:
 > [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_config-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_config-service)
 
 ``
+
+🥒 [Food Service](https://github.com/Energy-Handbok/food-service)
+
+> [!NOTE]
+> [![Java CI with Maven](https://github.com/Energy-Handbok/food-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/food-service/actions/workflows/maven.yml)
+> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_food-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_food-service)
+
 #### © 2024 BlueEyesssss
 
 <!--
 
 **Here are some ideas to get you started:**
+👉 link take icon:  https://vi.piliapp.com/emoji/list/
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
