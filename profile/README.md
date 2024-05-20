@@ -80,8 +80,17 @@ Docs:
 > [![Java CI with Maven](https://github.com/Energy-Handbok/food-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/food-service/actions/workflows/maven.yml)
 > [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_food-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_food-service)
 
-#### © 2024 BlueEyesssss
+``
 
+🍊 [Food recipe Service](https://github.com/Energy-Handbok/food-recipe-service)
+
+> [!NOTE]
+> [![Java CI with Maven](https://github.com/Energy-Handbok/food-recipe-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/food-recipe-service/actions/workflows/maven.yml)
+> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_food-recipe-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_food-recipe-service)
+
+``
+#### © 2024 BlueEyesssss
+food-receipe
 <!--
 
 **Here are some ideas to get you started:**
