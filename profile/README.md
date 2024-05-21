@@ -41,6 +41,7 @@ Docs:
 > [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_interact-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_interact-service)
 
 ``
+
 🍆 [Payment Service](https://github.com/Energy-Handbok/payment-service)
 
 > [!NOTE]
