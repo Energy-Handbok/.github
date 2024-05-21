@@ -89,13 +89,24 @@ Docs:
 > [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_food-recipe-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_food-recipe-service)
 
 ``
+
+🍌 [Interact Service](https://github.com/Energy-Handbok/interact-service)
+
+> [!NOTE]
+> [![Java CI with Maven](https://github.com/Energy-Handbok/interact-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/interact-service/actions/workflows/maven.yml)
+> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_interact-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_interact-service)
+
+``
 #### © 2024 BlueEyesssss
-food-receipe
+
 <!--
 
 **Here are some ideas to get you started:**
 👉 link take icon:  https://vi.piliapp.com/emoji/list/
-
+🍇🍈🍉🍊🍋🍌🍍🥭🍎🍏🍐🍑🍒🍓🫐🥝🍅🫒🥥🥑🍆🥔🥕🌽🌶️🫑🥒🥬🥦🧄🧅🥜🫘🌰🫚🫛🍞🥐🥖🫓
+🥨🥯🥞🧇🧀🍖🍗🥩🥓🍔🍟🍕🌭🥪🌮🌯🫔🥙🧆🥚🍳🥘🍲🫕🥣🥗🍿🧈🧂🥫🍱🍘🍙🍚🍛🍜🍝🍠🍢
+🍣🍤🍥🥮🍡🥟🥠🥡🦀🦞🦐🦑🦪🍦🍧🍨🍩🍪🎂🍰🧁🥧🍫🍬🍭🍮🍯🍼🥛☕🫖🍵🍶🍾🍷🍸🍹🍺🍻🥂
+🥃🫗🥤🧋🧃🧉🧊🥢🍽️🍴🥄🔪🫙🏺
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
