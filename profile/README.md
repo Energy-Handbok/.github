@@ -18,7 +18,7 @@ Docs:
 
 ``
 
-🧃 [Gateway Service](https://github.com/Energy-Handbok/gateway-service)
+🧃 [Gateway Service](https://github.com/Energy-Handbok/gateway-service) [coming soon]
 
 > [!NOTE]
 >[![Java CI with Maven](https://github.com/Energy-Handbok/gateway-service/actions/workflows/maven.yml/badge.svg)](https://github.com/Energy-Handbok/gateway-service/actions/workflows/maven.yml)
@@ -82,7 +82,7 @@ Docs:
 
 ``
 
-🍇 [Order Service](https://github.com/Energy-Handbok/order-service)
+🍇 [Order Service](https://github.com/Energy-Handbok/order-service) [coming soon]
 
 > [!NOTE]
 > [![Java CI with Maven](https://github.com/Energy-Handbok/order-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/order-service/actions/workflows/maven.yml)
