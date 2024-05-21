@@ -18,6 +18,14 @@ Docs:
 
 ``
 
+🧃 [Gateway Service](https://github.com/Energy-Handbok/gateway-service)
+
+> [!NOTE]
+>[![Java CI with Maven](https://github.com/Energy-Handbok/gateway-service/actions/workflows/maven.yml/badge.svg)](https://github.com/Energy-Handbok/gateway-service/actions/workflows/maven.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_gateway-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_gateway-service)
+
+``
+
 🥑 [User Service](https://github.com/Energy-Handbok/user-service)
 
 > [!NOTE]
@@ -26,27 +34,18 @@ Docs:
 
 ``
 
+🍌 [Interact Service](https://github.com/Energy-Handbok/interact-service)
+
+> [!NOTE]
+> [![Java CI with Maven](https://github.com/Energy-Handbok/interact-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/interact-service/actions/workflows/maven.yml)
+> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_interact-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_interact-service)
+
+``
 🍆 [Payment Service](https://github.com/Energy-Handbok/payment-service)
 
 > [!NOTE]
 >[![Java CI with Maven](https://github.com/Energy-Handbok/payment-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/payment-service/actions/workflows/maven.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_payment-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_payment-service)
-
-``
-
-🍉 [Common Service](https://github.com/Energy-Handbok/common-service)
-
-> [!NOTE]
->[![Java CI with Maven](https://github.com/Energy-Handbok/common-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/common-service/actions/workflows/maven.yml)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_common-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_common-service)
-
-``
-
-🍈 [Discovery Service](https://github.com/Energy-Handbok/discovery-service)
-
-> [!NOTE]
->[![Java CI with Maven](https://github.com/Energy-Handbok/discovery-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/discovery-service/actions/workflows/maven.yml)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_discovery-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_discovery-service)
 
 ``
 
@@ -58,19 +57,11 @@ Docs:
 
 ``
 
-🥕 [News Service](https://github.com/Energy-Handbok/news-service)
+🍊 [Food recipe Service](https://github.com/Energy-Handbok/food-recipe-service)
 
 > [!NOTE]
-> [![Java CI with Maven](https://github.com/Energy-Handbok/news-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/news-service/actions/workflows/maven.yml)
-> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_news-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_news-service)
-
-``
-
-🌽 [Config Service](https://github.com/Energy-Handbok/config-service)
-
-> [!NOTE]
-> [![Java CI with Maven](https://github.com/Energy-Handbok/config-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/config-service/actions/workflows/maven.yml)
-> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_config-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_config-service)
+> [![Java CI with Maven](https://github.com/Energy-Handbok/food-recipe-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/food-recipe-service/actions/workflows/maven.yml)
+> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_food-recipe-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_food-recipe-service)
 
 ``
 
@@ -82,19 +73,43 @@ Docs:
 
 ``
 
-🍊 [Food recipe Service](https://github.com/Energy-Handbok/food-recipe-service)
+🥝 [News Service](https://github.com/Energy-Handbok/news-service)
 
 > [!NOTE]
-> [![Java CI with Maven](https://github.com/Energy-Handbok/food-recipe-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/food-recipe-service/actions/workflows/maven.yml)
-> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_food-recipe-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_food-recipe-service)
+> [![Java CI with Maven](https://github.com/Energy-Handbok/news-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/news-service/actions/workflows/maven.yml)
+> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_news-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_news-service)
 
 ``
 
-🍌 [Interact Service](https://github.com/Energy-Handbok/interact-service)
+🍇 [Order Service](https://github.com/Energy-Handbok/order-service)
 
 > [!NOTE]
-> [![Java CI with Maven](https://github.com/Energy-Handbok/interact-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/interact-service/actions/workflows/maven.yml)
-> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_interact-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_interact-service)
+> [![Java CI with Maven](https://github.com/Energy-Handbok/order-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/order-service/actions/workflows/maven.yml)
+> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_order-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_order-service)
+
+``
+
+🍈 [Discovery Service](https://github.com/Energy-Handbok/discovery-service)
+
+> [!NOTE]
+>[![Java CI with Maven](https://github.com/Energy-Handbok/discovery-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/discovery-service/actions/workflows/maven.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_discovery-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_discovery-service)
+
+``
+
+🌽 [Config Service](https://github.com/Energy-Handbok/config-service)
+
+> [!NOTE]
+> [![Java CI with Maven](https://github.com/Energy-Handbok/config-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/config-service/actions/workflows/maven.yml)
+> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_config-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_config-service)
+
+``
+
+🍉 [Common Service](https://github.com/Energy-Handbok/common-service)
+
+> [!NOTE]
+>[![Java CI with Maven](https://github.com/Energy-Handbok/common-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/common-service/actions/workflows/maven.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Energy-Handbok_common-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Energy-Handbok_common-service)
 
 ``
 #### © 2024 BlueEyesssss
