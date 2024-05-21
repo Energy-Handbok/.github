@@ -1,11 +1,10 @@
 # Energy Handbook
-.........................................................................`© 2024 BlueEyesssss`
 
 *The application helps users calculate BMI, calculate daily calorie needs, discover cooking
 recipes, order food delivery, fi nd information about calories in food, and so on.*
 > Energy Handbook helps you control your energy life
 
-`Microservice`
+`Microservice` - `© 2024 BlueEyesssss`
 
 👉 The project is in the 🛠️ **Development stage** 🛠️
 
