@@ -84,7 +84,7 @@ Docs:
 
 ``
 
-🍇 [Order Service](https://github.com/Energy-Handbok/order-service) [coming soon]
+🍇 [Order Service](https://github.com/Energy-Handbok/order-service)
 
 > [!NOTE]
 > [![Java CI with Maven](https://github.com/Energy-Handbok/order-service/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Energy-Handbok/order-service/actions/workflows/maven.yml)
