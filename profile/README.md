@@ -20,7 +20,7 @@ Docs:
 
 ``
 
-🧃 [Gateway Service](https://github.com/Energy-Handbok/gateway-service) [coming soon]
+🧃 [Gateway Service](https://github.com/Energy-Handbok/gateway-service)
 
 > [!NOTE]
 >[![Java CI with Maven](https://github.com/Energy-Handbok/gateway-service/actions/workflows/maven.yml/badge.svg)](https://github.com/Energy-Handbok/gateway-service/actions/workflows/maven.yml)
